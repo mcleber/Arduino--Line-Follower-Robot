@@ -4,7 +4,6 @@
  * Arduino Uno R2, Proto shield, L293D e QRE-1113 Analogico
  *
  * Cleber Moretti
- * www.binarycodec.blogspot.com
  * Data: 05/02/2015
  * v.1.0
 ----------------------------------------------------------------*/
