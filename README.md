@@ -26,3 +26,9 @@ O esquema de ligação do L293D e dos sensores no Arduino encontram-se no diret�
 ### Teste
 
 Respeitando o espaçamento entre os sensores, faça um traçado/pista com fita isolante em uma superfície branca e conecte a alimentação ao Arduino.
+
+### Useful links
+
+[Arduino](https://www.arduino.cc)
+
+[Fritzing](https://fritzing.org)
